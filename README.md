@@ -1,8 +1,10 @@
 # notux-kernel
 
-hi is my kernel on Operating system from scratch
+hi is my kernel on Operating system from scratch, linux-like ABI 
 
 yes i use AI from fix
+
+but don't use AI for logo and font
 
 # LICENSE
 
